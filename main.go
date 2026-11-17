@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"example.com/composition/car"
+	"github.com/murilloc/go-composition/car"
 )
 
 func main() {
